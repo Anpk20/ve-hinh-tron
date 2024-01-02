@@ -1,13 +1,12 @@
 import turtle
 
 turtle.pensize (5)
-
+ 
 turtle.pencolor ("Green")
 
-turtle.Turtle().goto(-40, 120)
-
-turtle.fillcolor ("red")
+turtle.fillcolor ("blue")
 turtle.begin_fill()
 
-turtle.circle (150)
+turtle.circle (100)
 turtle.end_fill()
+turtle.done
